@@ -143,7 +143,7 @@ Approximately 6.3 seconds
 
 ## Bug Found
 
-Homepage performance exceeded the expected loading time.
+https://docs.google.com/document/d/1LIut6c9TnjF150gdiGijRj7s3eSdumtabz0zyrzUWcs/edit?usp=sharing
 
 ---
 
@@ -175,8 +175,6 @@ Performance Test : Failed (Homepage load time exceeded expected threshold)
 
 ## Author
 
-Richa Adhikari
+Prabha Adhikari
 
 B.Sc. CSIT
-
-Automation Testing Internship Project

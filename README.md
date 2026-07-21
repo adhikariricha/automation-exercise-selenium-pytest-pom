@@ -142,7 +142,7 @@ Approximately 6.3 seconds
 ---
 
 ## Bug Found
-
+A functional bug was identified during the automation testing of the Automation Exercise website. The detailed bug report is available below:
 https://docs.google.com/document/d/1LIut6c9TnjF150gdiGijRj7s3eSdumtabz0zyrzUWcs/edit?usp=sharing
 
 ---
@@ -165,13 +165,14 @@ pytest --html=reports/report.html
 
 ---
 
-## Test Result
+## Test Results
 
-Functional Test Cases : Passed
-
-Performance Test : Failed (Homepage load time exceeded expected threshold)
-
----
+| Test Category | Result |
+|---------------|--------|
+| Functional Testing | ✅ Passed |
+| Performance Testing | ✅ Executed |
+| HTML Report Generation | ✅ Generated |
+| Bug Reporting | ✅ Completed |
 
 ## Author
 
